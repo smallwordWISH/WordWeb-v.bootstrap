@@ -1,0 +1,137 @@
+
+/*  body {
+      padding-top: 52px;
+
+  }*/
+
+
+
+
+
+.my-nav {
+  background-color: #404040;  
+  opacity: 0.85;
+}
+
+
+
+.navbar-default .navbar-nav > li > a {
+    color: #C0C0C0;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #fff;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+    background-color: transparent;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #C0C0C0;
+}
+
+
+#content > .container > div {
+  padding: 52px 0;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.my-project {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+
+#my-avatar {
+  margin-top: 23px;
+}
+
+#about h1 {
+  margin-bottom: -10px;
+}
+
+#about {
+  padding-top: 50px;
+
+}
+
+.table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
+   background-color: #FFFAF2;
+
+}
+
+.my-project img {
+  
+  
+  width: 100%;
+  height: 100%
+}
+
+.project-info {
+  
+  background-color: rgba(255,255,255,.8);   /* 背景半透明 */
+
+  padding: 0 15px;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+  
+  width: 100%;
+  height: 100%;
+
+  text-align: center;
+  opacity: 0;
+
+}
+
+.project-info:hover {
+  opacity: 1;
+}
+
+.container .my-project .project-info p {
+
+  padding: 15px 15px;
+  text-align: center;
+
+}
+
+.container .my-project .project-info h3 {
+
+  text-align: center;
+
+}
+
+#contact h1 {
+  margin-bottom: 50px
+}
+
+#button {
+  float: right;
+}
+
+hr {
+  border: 2px solid #ff6600;
+  width: 80px;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 80px;
+
+
+}
+
+#copyright {
+  margin: 40px 0 5px 0;
+}
+
