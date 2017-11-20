@@ -94,6 +94,8 @@ h1 {
   text-align: center;
   opacity: 0;
 
+  color: #3C3C3C;
+
 }
 
 .project-info:hover {
@@ -134,4 +136,7 @@ hr {
 #copyright {
   margin: 40px 0 5px 0;
 }
+
+
+
 
